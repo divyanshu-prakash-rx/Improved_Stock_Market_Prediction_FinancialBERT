@@ -1,4 +1,4 @@
-# Stock_Market_Prediction_NSCAN_with_Event_aware
+# Improved_Stock_Market_Prediction_FinancialBERT
 
 
 ## Using Dataset FNSPID
