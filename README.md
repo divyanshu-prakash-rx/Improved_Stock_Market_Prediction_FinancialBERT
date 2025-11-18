@@ -328,16 +328,6 @@ For questions or collaborations:
 - GitHub: [@divyanshu-prakash-rx](https://github.com/divyanshu-prakash-rx)
 - Repository: [Stock_Market_Prediction_NSCAN_with_Event_aware](https://github.com/divyanshu-prakash-rx/Stock_Market_Prediction_NSCAN_with_Event_aware)
 
-## 🔮 Future Work
-
-- [ ] Add sentiment analysis features
-- [ ] Incorporate technical indicators
-- [ ] Implement transformer-based time series models
-- [ ] Multi-horizon prediction (weekly, monthly)
-- [ ] Cross-asset correlation modeling
-- [ ] Real-time prediction pipeline
-- [ ] Explainability analysis (SHAP, attention visualization)
-
 ---
 
 **Note**: Stock market prediction is inherently uncertain. This project is for research and educational purposes only and should not be used for actual trading decisions.
